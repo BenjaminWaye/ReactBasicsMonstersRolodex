@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/css/main.2d6b80a6.chunk.css",
-    "main.js": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/main.792dae1c.chunk.js",
-    "main.js.map": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/main.792dae1c.chunk.js.map",
-    "runtime-main.js": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/runtime-main.14c3ce17.js",
-    "runtime-main.js.map": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/runtime-main.14c3ce17.js.map",
-    "static/js/2.d562cfe4.chunk.js": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js",
-    "static/js/2.d562cfe4.chunk.js.map": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js.map",
-    "index.html": "/BenjaminWaye/ReactBasicsMonstersRolodex/index.html",
-    "precache-manifest.6e4bf7e1344fa464c0e7bab1ab649a95.js": "/BenjaminWaye/ReactBasicsMonstersRolodex/precache-manifest.6e4bf7e1344fa464c0e7bab1ab649a95.js",
-    "service-worker.js": "/BenjaminWaye/ReactBasicsMonstersRolodex/service-worker.js",
-    "static/css/main.2d6b80a6.chunk.css.map": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/css/main.2d6b80a6.chunk.css.map",
-    "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/BenjaminWaye/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
+    "main.css": "/ReactBasicsMonstersRolodex/static/css/main.2d6b80a6.chunk.css",
+    "main.js": "/ReactBasicsMonstersRolodex/static/js/main.9f566b6e.chunk.js",
+    "main.js.map": "/ReactBasicsMonstersRolodex/static/js/main.9f566b6e.chunk.js.map",
+    "runtime-main.js": "/ReactBasicsMonstersRolodex/static/js/runtime-main.1113ab53.js",
+    "runtime-main.js.map": "/ReactBasicsMonstersRolodex/static/js/runtime-main.1113ab53.js.map",
+    "static/js/2.d562cfe4.chunk.js": "/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js",
+    "static/js/2.d562cfe4.chunk.js.map": "/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js.map",
+    "index.html": "/ReactBasicsMonstersRolodex/index.html",
+    "precache-manifest.53997c9d856ea5cfa28b5adc19c3638b.js": "/ReactBasicsMonstersRolodex/precache-manifest.53997c9d856ea5cfa28b5adc19c3638b.js",
+    "service-worker.js": "/ReactBasicsMonstersRolodex/service-worker.js",
+    "static/css/main.2d6b80a6.chunk.css.map": "/ReactBasicsMonstersRolodex/static/css/main.2d6b80a6.chunk.css.map",
+    "static/js/2.d562cfe4.chunk.js.LICENSE.txt": "/ReactBasicsMonstersRolodex/static/js/2.d562cfe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.14c3ce17.js",
+    "static/js/runtime-main.1113ab53.js",
     "static/js/2.d562cfe4.chunk.js",
     "static/css/main.2d6b80a6.chunk.css",
-    "static/js/main.792dae1c.chunk.js"
+    "static/js/main.9f566b6e.chunk.js"
   ]
 }
